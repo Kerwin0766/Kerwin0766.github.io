@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title:  Kerwin's Blog
-subtitle:
-description:
-author: John Doe
+title:  云影一鉴
+subtitle: 一亩方塘，杂乱无章
+description: 问渠那得清如许，为有源头活水来。
+author: 清源
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
