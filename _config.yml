@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/weblogo.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "生活, 学习, 记录, 心情, 思考"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
