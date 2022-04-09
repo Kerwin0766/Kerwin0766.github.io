@@ -380,8 +380,8 @@ baidu_analytics: 596d168b569c023530143a6c0f763764
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: ture
+  shortname: Kerwin
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
