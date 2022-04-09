@@ -562,7 +562,7 @@ baidu_push: false
 # API Documentation:
 # https://developers.google.com/google-apps/calendar/v3/reference/events/list
 calendar:
-  enable: false
+  enable: true
   calendar_id: <required>
   api_key: <required>
   orderBy: startTime
