@@ -21,4 +21,4 @@ type: about
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerwin0766&show_icons=true&theme=radical)](https://github.com/Kerwin0766/github-readme-stats)
 
 ### 语言频率
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerwin0766&layout=compact)](https://github.com/Kerwin0766/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerwin0766&theme=tokyonight&layout=compact)](https://github.com/Kerwin0766/github-readme-stats)
