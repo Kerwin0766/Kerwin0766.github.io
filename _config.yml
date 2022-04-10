@@ -122,6 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  thoughts: /thoughts/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -139,6 +140,7 @@ menu_icons:
   categories: th
   schedule: calendar
   tags: tags
+  thoughts: book
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
