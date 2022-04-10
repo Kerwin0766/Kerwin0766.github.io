@@ -22,3 +22,10 @@ type: about
 
 ### 语言频率
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerwin0766&theme=tokyonight&layout=compact)](https://github.com/Kerwin0766/github-readme-stats)
+
+  
+  
+
+<h3 align="center">Visitor's count :eyes:</h3>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Kerwin0766}/count.svg" alt="Kerwin0766 :: Visitor's Count" /></p>
