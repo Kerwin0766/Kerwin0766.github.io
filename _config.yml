@@ -217,6 +217,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/Kerwin0766
+  豆瓣: http://www.douban.com/people/xptall
 
 
 # Social Links Icons
@@ -231,6 +232,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  豆瓣: square-d
 
 
 # Sidebar Avatar
