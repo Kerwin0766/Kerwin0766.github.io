@@ -217,6 +217,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/Kerwin0766
+  bilibili: https://space.bilibili.com/106455052
   豆瓣: http://www.douban.com/people/xptall
 
 
@@ -232,7 +233,8 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  豆瓣: square-d
+  bilibili: bilibili
+  豆瓣: duck
 
 
 # Sidebar Avatar
