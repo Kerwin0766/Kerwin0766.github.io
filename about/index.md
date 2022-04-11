@@ -1,6 +1,6 @@
 ---
 layout: page
-type: about
+type: 
 ---
 ***
 ![touxiang](/images/65D97825-8D36-4CB7-B668-2A86112D771D.jpeg)
