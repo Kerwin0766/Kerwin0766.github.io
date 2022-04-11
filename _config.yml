@@ -329,7 +329,7 @@ post_wordcount:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /images/code.jpg
   description: 欢迎关注我的公众号
 
