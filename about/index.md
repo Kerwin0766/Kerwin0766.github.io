@@ -4,7 +4,7 @@ type:
 ---
 
 ![touxiang](/images/65D97825-8D36-4CB7-B668-2A86112D771D.jpeg)  
-<p align="center">摄于2021年秋     广东茂名</p>  
+<p align="center">摄于2021年秋 &nbsp;&nbsp;广东茂名</p>  
 
 ## 个人介绍
 
