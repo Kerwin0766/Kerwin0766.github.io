@@ -26,7 +26,7 @@ type:
 地球相对于宇宙，只是一个暗淡蓝点。博客相对于互联网世界，莫过于此。相遇即是缘分，从相遇到相识，是缘分的开始。期待与你分享我的故事，更期待可以当你的听众，听听你的故事。  
 
 可以通过以下方式联系我：
-- [点击发送邮件](mailto:Kerwin0766@gmail.com)
+- [点击发送邮件](mailto:1060435597@qq.com)
 - [bilibili](https://space.bilibili.com/106455052)
 - [GitHub](https://github.com/Kerwin0766)
 
