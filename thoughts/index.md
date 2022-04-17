@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 type: thoughts
 title: 一亩方塘泛涟漪
 ---
