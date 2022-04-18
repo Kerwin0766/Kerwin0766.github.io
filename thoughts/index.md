@@ -1,9 +1,6 @@
 ---
-layout: post
-type: thoughts
+layout: page
 title: 一亩方塘泛涟漪
-post-meta: false
-post-copyright: false
 ---
 
 <br/>
