@@ -3,7 +3,7 @@ layout: post
 type: thoughts
 title: 一亩方塘泛涟漪
 page_pv: false
-post_meta: false
+post_meta_item_text: false
 ---
 
 <br/>
