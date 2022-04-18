@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 type: thoughts
 title: 一亩方塘泛涟漪
+page_pv: false
+post_meta: false
 ---
 
 <br/>
