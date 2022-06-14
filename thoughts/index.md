@@ -1,8 +1,6 @@
 ---
-layout: page
+layout: post
 title: 一亩方塘泛涟漪
-toc: 
- -enable: true
 ---
 
 <br/>
